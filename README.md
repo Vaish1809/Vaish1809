@@ -14,7 +14,7 @@
 
 - 💬 Ask me about ****AI**, **Machine Learning**, **Emotion AI**, and my adventures in **NLP and conversational models**.**
 
-- 📫 How to reach me **Drop me a message at **vaishnavipadiya@example.com** or connect with me on [LinkedIn](https://linkedin.com/in/vaishnavipadiya)!**
+- 📫 How to reach me **Drop me a message at **vaishnavipadiya@gmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/vaishnavi-padiya-91468a235/)!**
 
 - ⚡ Fun fact **I’m obsessed with **learning something new every day**—whether it’s decoding a tough algorithm, exploring how humans think, or even just learning how to juggle!**
 
