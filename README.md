@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Unlocking the mysteries of **Conversational AI** and diving deeper into Emotional AI! Let’s explore these fields together.**
 
-- 👨‍💻 All of my projects are available at [Check out my portfolio: [**vaishnavipadiya.github.io**](https://vaishnavipadiya.github.io/)](Check out my portfolio: [**vaishnavipadiya.github.io**](https://vaishnavipadiya.github.io/))
+- 👨‍💻 All of my projects are available at [Check out my portfolio: [**GitHub**](https://github.com/Vaish1809/Vaish1809)
 
 - 💬 Ask me about ****AI**, **Machine Learning**, **Emotion AI**, and my adventures in **NLP and conversational models**.**
 
