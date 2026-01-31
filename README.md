@@ -11,32 +11,15 @@
 
 🤝 I’m looking for help with Conversational AI, Emotion AI, and understanding how intelligent systems can interact more naturally with humans.
 
-👨‍💻 All of my projects are available here 👉 GitHub Portfolio
+- 👨‍💻 All of my projects are available at [**GitHub**](https://github.com/Vaish1809/Vaish1809)
+  
+-  Check out my portfolio at  - [**Vaishnavi Padiya Portfolio**] (https://vaishnavipadiya.vercel.app/)
 
 💬 Ask me about AI, Machine Learning, NLP, Emotion AI, or how I approach learning by building.
 
-📫 How to reach me: vaishnavipadiya@gmail.com
- | LinkedIn
-
-⚡ Fun fact: I love learning something new every day—from cracking algorithms to understanding how humans think and communicate.
-
-- 🔭 I’m currently working on **Creating systems that Blend Empathy with Intelligence, redefining how humans and technology connect on a deeper emotional level. 🌈💡**
-
-- 🌱 I’m currently learning ****Advanced NLP techniques** , **Multi-modal Machine Learning frameworks** , **Conversational AI tools** , And honestly…anything AI that grabs my attention!**
-
-- 👯 I’m looking to collaborate on **Exciting AI and Machine Learning projects that push boundaries, spark curiosity, and create meaningful impact!**
-
-- 🤝 I’m looking for help with **Unlocking the mysteries of **Conversational AI** and diving deeper into Emotional AI! Let’s explore these fields together.**
-
-- 👨‍💻 All of my projects are available at [Check out my portfolio: [**GitHub**](https://github.com/Vaish1809/Vaish1809)
-  
--  Check out my portfolio at  - [**Vaishnavi Padiya Portfolio] (https://vaishnavipadiya.vercel.app/)
-
-- 💬 Ask me about ****AI**, **Machine Learning**, **Emotion AI**, and my adventures in **NLP and conversational models**.**
-
 - 📫 How to reach me **Drop me a message at **vaishnavipadiya@gmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/vaishnavi-padiya-91468a235/)!**
 
-- ⚡ Fun fact **I’m obsessed with **learning something new every day**—whether it’s decoding a tough algorithm, exploring how humans think, or even just learning how to juggle!**
+⚡ Fun fact: I love learning something new every day—from cracking algorithms to understanding how humans think and communicate.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
